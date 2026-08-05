@@ -5,7 +5,7 @@ The project is designed to practice real-world backend concepts such as REST API
 
 📌 Project Overview <br>
 ° User registration and login (Role-based authentication) <br>
-° Vehicle registration & management linked to users using userId <br>
+° Vehicle registration & management linked to users using userId <br> 
 ° Backend validation for avoiding duplicate entries <br>
 ° Service booking & tracking <br>
 ° Admin control panel operations <br>
