@@ -1,7 +1,7 @@
 # GO GARAGE - Garage-Management-System(GMS)
 A backend-focused web application built with Spring Boot, MYSQL fro backend and a custom HTML/CSS/JavaScript frontend. This system allows customers to manage vehicles and book services, while administrators manage users, services, previously owned sales vehicles, and system activities.. 
  
-The project is designed to practice real-world backend concepts such as REST APIs, database relationships, validation, and frontend–backend communication without relying on heavy frontend frameworks.  
+The project is designed to practice real-world backend concepts such as REST APIs, database relationships, validation, and frontend–backend communication without relying on heavy frontend frameworks.   
 
 📌 Project Overview <br>
 ° User registration and login (Role-based authentication) <br>
